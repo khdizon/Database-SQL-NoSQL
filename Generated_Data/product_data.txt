@@ -1,0 +1,30 @@
+1;Knee braces;designed to support and protect the knee joint during physical activity or recovery from injury.;56.1
+2;Ankle braces;designed to provide stability and support for the ankle joint during physical activity or recovery from injury.;1.63
+3;Compression garments;designed to improve blood flow, reduce swelling, and support muscles during physical activity or recovery from injury.;87.25
+4;Ice packs;designed to reduce pain and swelling by applying cold therapy to the affected area.;48.32
+5;Heating pads;designed to improve blood flow, reduce muscle tension, and promote healing by applying heat therapy to the affected area.;85.02
+6;Massage balls;designed to relieve muscle tension and improve flexibility by applying pressure to trigger points in the muscles.;39.84
+7;Foam rollers;designed to relieve muscle tension and improve flexibility by rolling over the muscles.;66.16
+8;Resistance bands;designed to improve strength and flexibility by providing resistance during exercise.;28.59
+9;Balance boards;designed to improve balance and stability by challenging the body to maintain equilibrium on an unstable surface.;89.73
+10;Sports tape;designed to provide support and stability for joints and muscles during physical activity or recovery from injury.;74.99
+11;Cold sprays;designed to provide instant cooling relief for muscle or joint pain.;92.62
+12;Anti-inflammatory creams;designed to reduce pain and swelling by applying a topical cream containing anti-inflammatory ingredients.;90.87
+13;Electrolyte replacement drinks;designed to replace fluids and essential minerals lost through sweating during physical activity.;6.6
+14;Protein supplements;designed to aid in muscle recovery and growth by providing additional protein to the body.;56.63
+15;Energy gels;designed to provide a quick source of energy during physical activity.;49.94
+16;Electrotherapy devices;designed to provide pain relief and promote healing through the use of electrical impulses.;16.62
+17;Insoles;designed to provide additional support and cushioning for the feet during physical activity or recovery from injury.;71.28
+18;Athletic tape;designed to prevent or treat injuries, provide support to muscles and joints, or secure bandages and splints.;6.82
+19;Wrist supports;designed to protect and support the wrist during physical activity or recovery from injury.;30.18
+20;Finger splints;designed to protect and immobilize the finger during physical activity or recovery from injury.;78.54
+21;Mouthguards;designed to protect the teeth and jaw from impact during contact sports.;82.13
+22;Shin guards;designed to protect the shins from impact during contact sports.;36.95
+23;Sports goggles;designed to protect the eyes during physical activity or contact sports.;34.3
+24;Sports-specific shoes;designed with features specific to a particular sport, such as cleats for soccer or basketball shoes with extra cushioning.;49.7
+25;Athletic socks;designed with extra cushioning and support for the feet during physical activity.;89.91
+26;Blister pads;designed to protect the skin from friction and prevent blisters during physical activity.;71.62
+27;Hydration packs;designed to provide hands-free hydration during outdoor activities.;10.45
+28;GPS watches;designed to track distance, pace, and other metrics during physical activity.;25.16
+29;Heart rate monitors;designed to track heart rate and other metrics during physical activity.;11.62
+30;Recovery tools;designed to aid in muscle recovery, such as massage guns, percussive therapy devices, or pneumatic compression boots.;73.32
